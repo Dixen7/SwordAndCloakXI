@@ -1,2 +1,0 @@
-# swordandcloak
-Clicker game project
